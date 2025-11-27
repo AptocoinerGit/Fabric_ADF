@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Kreditoren_Gesamtumsatz"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ed1ddb8c-4e17-9a7d-49b8-b1a2ef90f42b"
+  }
+}

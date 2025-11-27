@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SCRBWA_Gliederung"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b3ee11b3-d89a-9efd-4296-bc738d5d7157"
+  }
+}

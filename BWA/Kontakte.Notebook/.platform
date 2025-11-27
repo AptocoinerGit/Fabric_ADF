@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Kontakte"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6ddd2b1d-8988-88f0-4f12-f9b6538b7782"
+  }
+}

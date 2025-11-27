@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Buchungen_Basis_Budget"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "be2d8d4b-3e9a-8aa5-4a3f-b494bc158f52"
+  }
+}

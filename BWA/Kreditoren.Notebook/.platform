@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Kreditoren"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "73c4a8a8-8401-ae18-49ed-37bdfeddc56f"
+  }
+}
